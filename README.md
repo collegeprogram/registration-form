@@ -1,4 +1,4 @@
-#registration code
-<p><b>This code is made with the help of only HTML.The main motive of this code is to provide the coding related video.</b></p>
-<br>
-#getting started
+#registration code structure
+<p><b>This code is made  with the help of HTML .This code provides us how to make a proper registration form structure</b></p>
+
+
